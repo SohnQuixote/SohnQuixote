@@ -1,4 +1,4 @@
-###  I'm currently learning algorithm with C++
+###  I'm currently reveiewing algorithm with C++
 
 
 <!--
