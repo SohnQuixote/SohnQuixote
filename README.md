@@ -1,5 +1,4 @@
-###  I'm currently reveiewing algorithm with C++
-
+###  I'm currently studying at the Samsung SW Academy
 
 <!--
 **SohnQuixote/SohnQuixote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
