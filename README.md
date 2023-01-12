@@ -1,4 +1,4 @@
-###  I'm currently studying at the Samsung SW Academy
+###  I'm SOHN
 
 <!--
 **SohnQuixote/SohnQuixote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
